@@ -21,7 +21,7 @@ pip install twine
 Run cookiecutter to fill in the template.
 
 ```bash
-cookiecutter gh:seismopy/opsdata
+cookiecutter gh:niosh-mining/opsdata
 ```
 
 Follow the prompts when asked for name, email, etc.

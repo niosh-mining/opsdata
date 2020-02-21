@@ -57,12 +57,6 @@ if not re.match(MODULE_REGEX, dataset_name):
 #     module_name=get_snake_name(dataset_name),
 # )
 #
-# base_path = Path(__file__).absolute().parent.parent
-# breakpoint()
-# cookiecutter('gh:seismopy/opsdata', extra_context=extra_content)
-#
-#
-#
 #
 # if __name__ == "__main__":
 #     # first test base names

@@ -14,7 +14,7 @@ setup(
     license="BSD",
     author_email="djachambeador@gmail.com",
     requirements=requirements,
-    url="https://github.com/seismopy/opsdata",
+    url="https://github.com/niosh-mining/opsdata",
     keywords=["cookiecutter", "template", "package"],
     classifiers=[
         "Development Status :: 4 - Beta",

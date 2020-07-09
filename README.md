@@ -1,7 +1,7 @@
 # OpsData
 
 This is the template for creating 
-[datasets](https://niosh-mining.github.io/obsplus/versions/latest/notebooks/datasets/datasets.html)
+[seismological datasets](https://niosh-mining.github.io/obsplus/versions/latest/notebooks/datasets/datasets.html)
 using [ObsPlus](www.github.com/niosh-mining/obsplus). Datasets can easily be created, discovered,
 and distributed. 
 
